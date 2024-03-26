@@ -6,7 +6,7 @@
       "name": "Prematch",
       "fields": [
         {
-          "title": "Scouter Initials",
+          "title": "Scouter Initials to use",
           "type": "text",
           "required": true,
           "code": "scouter",
